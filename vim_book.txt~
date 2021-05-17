@@ -1,0 +1,130 @@
+Picollo
+SOURCES = \
+acp.cpp \
+add.cpp \
+adump.CPP \
+aformat.cpp \
+ALS.CPP \
+AMEM.CPP \
+APP.CPP \
+arm.cpp \
+progress.cpp \
+0x00000000000000
+This is a test.
+rio.cpp \
+rio_glob.cpp
+rio_io.cpp \
+Californian
+a
+What-is-happening-guys?
+int main(void)
+{
+    printf("Hello World!");
+    return 0;
+}
+What is happening guys?
+aa
+aaaa
+aaaaa
+set_ix.cpp \
+time.cpp 
+what is happening
+########################__________________--------gamers
+	This is a test.
+	This is a tEST.
+dfdffjfjfjfjfjfjfjfj
+SOURCES = \
+acp.cpp \
+t
+te
+#---------------------
+ten
+tin
+ton
+tun
+aXYb
+ab
+1MGU342
+AXYXYb
+aXYXYb
+aXYXYXYb
+tqp
+#---------------------
+tee
+teee
+What is 
+this is in all uppercase.
+if(num)
+{
+    printf("What is happening!\n");
+}
+add.cpp \
+Unfortunately
+What is happening boys.
+What is going on boys.
+What is happening boys.
+What is happening boys.
+What is happening boys.
+rio_io.cpp \
+adump.cpp \
+aformat.cpp \
+als.cpp \
+Unfortunately
+All menpeople are created equal
+All people are created equal
+progress.cpp \
+rio_io.cpp \
+hat is happening. Today I'm going to be going as a basketball player into the
+very real guise of petunia.
+amem.cpp \
+app.cpp \
+arm.cpp \
+lsd@w%i Unfortunately
+lso@r%s .cfpr\unatelyUnfortunately
+progress.cpp \
+rio.cpp \
+rio_glob.cpp
+rio_io.cpp \
+OO
+set_ix.cpp \
+time.cpp 
+for the last time bro.
+what is happening
+gamers
+Profanity is the one language that all programmers understand.
+
+		current_time = modifier;
+
+		current_time = modifier;
+
+#-------------------------------------
+incrementing numbers Ctrl-a
+substitution and change
+Can have count on R command
+Control O and <TAB> for history.
+; and , for going through the find command.
+gU and gUU and gu and guu
+gU and gUU and gu and guu
+#-------------------------------------
+mA is used to make a global mark which enables the user to go from one 
+file to another.
+Ctrl-a enters the last text entered in insert mode. This command only works
+in insert mode.
+Ctrl-y and Ctrl-e enters the letters above and below the cursor into the
+current line 
+Can paste in insert mode with Ctrl-r
+Ctrl-o in insert mode allows a single normal mode command to be executed.
+Edit alternate file using Ctrl-^
+Ctrl-w-o removes all the other windows in split screen
+:ball command opens all the buffers in there own window
+#-------------------------------------
+$ in visual block mode causes all lines to reach till the end of the
+statement.
+Use iw command/motion to only select one word and nothing else like spaces.
+The term word means a string of characters defined by the 'iskeyword' option.
+The term WORD means any sequence of non-whitespace characters.Therefore
+"that-all" without the quotations is two words, but it is one WORD.
+Select matching pair {} using "va}" to include the {} or "vi}" to exclude the {}
+can also be used with y and d commands. 
+Ctrl-d and Ctrl-t allows you to control indentation while in insert mode
+Ctrl-p autocompletes during programming
